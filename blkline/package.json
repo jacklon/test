@@ -1,0 +1,18 @@
+{
+  "name": "exchange-app",
+  "version": "1.0.0",
+  "description": "数字货币行情系统",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcloudio/uni-ui": "0.0.6",
+    "pako": "^2.0.4",
+    "uview-ui": "^1.8.6",
+    "vue-moment": "^4.1.0"
+  }
+}
